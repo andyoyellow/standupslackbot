@@ -1,0 +1,15 @@
+{
+  "name": "ahuang",
+  "version": "1.0.0",
+  "description": "custombot",
+  "main": "index.js",
+  "scripts": {
+    "test": "print hello"
+  },
+  "dependencies": {
+    "body-parser": "^1.x.x",
+    "express": "^4.13.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
